@@ -1,0 +1,271 @@
+{
+  "intro": {
+    "name": "Ashamol C M",
+    "specialization": [
+      "full stack developer",
+      "Java Consultant"
+    ],
+    "introMessage": "Hello World",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/cmashamolcm",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "stackverflow",
+        "url": "https://stackoverflow.com/users/1625771/user1625771",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ashamol-cm-77537b169/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "about": {
+    "description": "Self-driven full-stack,Java developer with a passion for thoughtful system designs, implemenation, and teaching.",
+    "image": "https://media-exp1.licdn.com/dms/image/C5103AQF1kIjl268yCw/profile-displayphoto-shrink_200_200/0/1532225654360?e=1631145600&v=beta&t=VIzI-W39njtqahfZD-o228jnJskXsBI8vHaVMMBRYjY",
+    "bio": "A passionate programmer and  avid reader! <br/>Having over 8+ years of experience in Software Development with Java and JavaScript technologies. Worked with tech giants including Fortune 500 companies like Boeing, Lowes etc.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "cmashamolcm@gmail.com",
+    "personalDetails": [
+      {
+        "key": "FULLNAME",
+        "value": "Ashamol C M"
+      },
+      {
+        "key": "BIRTH DATE",
+        "value": "30 Nov 1991"
+      },
+      {
+        "key": "JOB",
+        "value": "Java Backend Engineer, Front End Developer"
+      },
+      {
+        "key": "WEBSITE",
+        "value": "www.cmashamolcm.com"
+      },
+      {
+        "key": "EMAIL",
+        "value": "cmashamolcm@gmail.com"
+      }
+    ],
+    "skillDescription": "Hands-on experience in front end and back end technologies. <br/> Agile Certified Scrum Master",
+    "skills": [
+      {
+        "name": "Java",
+        "level": 80
+      },
+      {
+        "name": "RESTful Microservice",
+        "level": 70
+      },
+      {
+        "name": "Spring Boot",
+        "level": 70
+      },
+      {
+        "name": "Micronaut",
+        "level": 60
+      },
+      {
+        "name": "GraphQL",
+        "level": 50
+      },
+      {
+        "name": "Apache Kafka",
+        "level": 60
+      },
+      {
+        "name": "RabbitMQ",
+        "level": 35
+      },
+      {
+        "name": "ReactJs",
+        "level": 60
+      },
+      {
+        "name": "Angular",
+        "level": 45
+      },
+      {
+        "name": "Git",
+        "level": 70
+      },
+      {
+        "name": "CSS",
+        "level": 30
+      },
+      {
+        "name": "HTML5",
+        "level": 30
+      },
+      {
+        "name": "Cassandra",
+        "level": 60
+      },
+      {
+        "name": "MySQL",
+        "level": 60
+      },
+      {
+        "name": "Google Cloud(GCP)",
+        "level": 60
+      },
+      {
+        "name": "CI/CD",
+        "level": 60
+      },
+      {
+        "name": "Docker",
+        "level": 50
+      },
+      {
+        "name": "Kubernetes",
+        "level": 40
+      },
+      {
+        "name": "Jenkins",
+        "level": 60
+      }
+    ],
+    "downloadCvLink": ""
+  },
+  "resume": {
+    "skillMessage": "8 years ago, I started my career as a Java backend developer and heading towards the path of a fullstack develper.",
+    "education": [
+      {
+        "school": "CUSAT",
+        "degree": "BTech In Computer Science And Engineering",
+        "graduated": "June 2013",
+        "description": "BTech in Computer Science & Engineering from CUSAT(Cochin University Of Science And Technology)"
+      },
+      {
+        "school": "IGNOU",
+        "degree": "Master of Business Administration (Operations Management)",
+        "graduated": "December 2017",
+        "description": "MBA in Operations Research from Indira Gandhi National Open University(IGNOU)"
+      }
+    ],
+    "work": [
+      {
+        "company": "Lowes India Pvt Ltd.",
+        "title": "Senior Software Engineer ",
+        "years": "June 2020 - March 2021",
+        "description": "Lowe’s is a Fortune 50 company who is one of the biggest retail domain market players in USA and Canada. This project is to transform legacy store management system with the latest tech stack and micro service architecture. BFF is the orchestrator who will be acting as an intelligent gateway to interact with various other services in the micro service echo system. Front end systems such as mobile checkout will be contacting BFF to manage various store activities."
+      },
+      {
+        "company": "Boeing India Pvt Ltd.",
+        "title": "Software Engineer ",
+        "years": "February 2019 - March 2020",
+        "description": "Boeing is the key player in the aviation domain with a success story of over 100+ years. Their products are mainly to support commercial airplanes. The microservice based solution we were building was one of the off-board projects capable of to support all other on-board systems of aircraft. The project is fully based on cloud-based spring boot micro service architecture."
+      },
+      {
+        "company": "Baker Hughes - A GE Company",
+        "title": "Software Engineer ",
+        "years": "January 2017 - September 2018",
+        "description": "Baker Hughes is an organization specialized in delivering quality software for petroleum domain. The existing product was redesigned to support latest technologies. Microservice Architecture was a concept opposite to the traditional monolithic structure. Converting the product into multiple services and thereby increase performance, zero down time, and product maintainability was the motive in microservice upgrade of product platform."
+      },
+      {
+        "company": "Suntec Business Solutions Pvt Ltd.",
+        "title": "Software Engineer ",
+        "years": "June 2013 - September 2016",
+        "description": "Suntec provides software products for the revenue management of Banking and Telecom domain companies. Xelerate is the futuristic cloud native solution to manage business transactions. Xelerate Data Management System was the gateway to all data-stores such as Cassandra, RDBS, and In-Memory, which was one of the core components of Xelerate, the upcoming version of transaction business management system. "
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Certified Scrum Master",
+        "organization": "Scrum Alliance",
+        "year": "December 2019",
+        "description": "Certified Scrum Master (CSM) is one of the top most certificates in the IT industry.&nbsp;It’s a certificate awarded to the team coaches based on their understanding of the Scrum framework."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "service": {
+    "description": "I can help you with the following services",
+    "activities": [
+      {
+        "title": "Java Consultation",
+        "description": "End to end design and implementation of complex Java backend applications.",
+        "icon": "fa fa-file-code-o"
+      },
+      {
+        "title": "Web Development Consulation",
+        "description": "Consulation for modern web application development.",
+        "icon": "icon-earth"
+      },
+      {
+        "title": "Agile Coaching",
+        "description": "Help and mentor enthusiastic teams to move towards Agile software development methodology",
+        "icon": "icon-users"
+      },
+      {
+        "title": "Teaching",
+        "description": "Mentor people to stengthen their technical skills",
+        "icon": "icon-book"
+      }
+    ]
+  },
+  "contact": {
+    "address": {
+      "district": "Kottayam",
+      "state": "Kerala",
+      "pin": "686605",
+      "country": "India"
+    },
+    "email": "cmashamolcm@gmail.com",
+    "phone": "+917012260318"
+  },
+  "footer": {
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/cmashamolcm",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "stackverflow",
+        "url": "https://stackoverflow.com/users/1625771/user1625771",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ashamol-cm-77537b169/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  }
+}
